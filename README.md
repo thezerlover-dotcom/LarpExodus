@@ -112,13 +112,10 @@ See the [LICENSE](LICENSE) file for licensing information.
 - Digital Asset Dashboard
 - Cryptocurrency Simulation
 - Software Interface Design
-
-   
-
-
-  
-      
 - UI Experiment
 - Laravel PHP Application
 - Web Application
 - Modern UI Design
+
+
+  
